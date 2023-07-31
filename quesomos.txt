@@ -1,0 +1,6 @@
+"Lo que somos:", 
+"Lo que somos:
+somos programadores"
+"Lo que somos:
+somos programadores
+hacemos que el mundo se mueva"
